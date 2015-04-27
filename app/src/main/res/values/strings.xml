@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator bil.kompleks</string>
+
+    <string name="Bil.Imajiner">Bil.Imajiner</string>
+    <string name="action_settings">Settings</string>
+    <string name="tambah">+</string>
+    <string name="hasil">=</string>
+    <string name="Bil.Real">Bil.Real</string>
+</resources>
